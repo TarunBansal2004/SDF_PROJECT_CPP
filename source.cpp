@@ -50,6 +50,7 @@ int main()
     cin.get();
     Hotel hotel;
     hotel.mainMenu();
+    //ex
 
     return 0;
 }
